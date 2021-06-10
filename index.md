@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern junaidkhalid.io
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+permalink: junaidkhalid.io  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 FIXME: home page introduction
 
